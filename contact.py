@@ -77,6 +77,9 @@ def run():
             store_contact(contact_list)
             break
 
+def hello():
+    print("Hello World!!!")
+
 if __name__ == "__main__":
     run() #실행1
     #실행2
